@@ -16,7 +16,7 @@ languages = {
     },
     "en": {
         "title": "Square Root of a Number",
-        "input_placeholder": "Enter a number, e.g., 2+3j",
+        "input_placeholder": "Enter a number, e.g., 2 + 3j",
         "submit": "Calculate",
         "result_label": "Result",
         "support": "Site Support",
@@ -24,7 +24,7 @@ languages = {
     },
     "es": {
         "title": "Raíz Cuadrada de un Número",
-        "input_placeholder": "Ingrese un número, p.ej., 2+3j",
+        "input_placeholder": "Ingrese un número, p.ej., 2 + 3j",
         "submit": "Calcular",
         "result_label": "Resultado",
         "support": "Soporte del sitio",
